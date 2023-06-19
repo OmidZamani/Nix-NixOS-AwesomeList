@@ -42,6 +42,10 @@ Discover additional repositories that provide collections of Nix packages and ov
 
 - [Nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla): Nixpkgs-mozilla is a repository maintained by Mozilla that offers Nix packages and overlays for Mozilla-related projects and software, including Firefox, Gecko, and other Mozilla components.
 
+- [Nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt): Nixpkgs-fmt provides a formatting tool for Nix expressions, allowing you to maintain consistent and readable code across your Nix projects.
+
+- [Nixpkgs-update](https://github.com/ryantm/nixpkgs-update): Nixpkgs-update is a tool that helps automate the process of updating packages in Nixpkgs. It assists with identifying and applying updates to keep your Nix environment up to date.
+
 These repositories expand the available packages and configurations for Nix, enabling you to customize and extend your Nix environment.
 
 ## Getting Started
