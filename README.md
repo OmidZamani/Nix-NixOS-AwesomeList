@@ -32,6 +32,18 @@ Nix Flake Templates is a repository that offers project templates and examples f
 
 The Nix Manual repository contains the official documentation for Nix. It provides an in-depth guide to using and understanding Nix, covering topics such as package management, language features, and configuration.
 
+## Nix Packages and Overlays
+
+Discover additional repositories that provide collections of Nix packages and overlays:
+
+- [NUR](https://github.com/nix-community/NUR): The Nix User Repository (NUR) is a community-driven collection of Nix packages and overlays. It offers a wide range of user-contributed packages that can be easily integrated into your Nix environment.
+
+- [Home Manager](https://github.com/nix-community/home-manager): Home Manager provides a convenient way to manage your user configuration files and packages in Nix. It allows you to define and deploy your personal environment across multiple machines.
+
+- [Nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla): Nixpkgs-mozilla is a repository maintained by Mozilla that offers Nix packages and overlays for Mozilla-related projects and software, including Firefox, Gecko, and other Mozilla components.
+
+These repositories expand the available packages and configurations for Nix, enabling you to customize and extend your Nix environment.
+
 ## Getting Started
 
 If you're new to Nix or NixOS, we recommend starting with the following resources:
