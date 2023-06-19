@@ -24,6 +24,14 @@ Nixpkgs is a large collection of package definitions that are used by Nix to bui
 
 Nix Pills is a tutorial series that aims to teach users about Nix and its concepts through practical examples and explanations. It covers various topics, from basic package management to advanced Nix features. The repository provides a wealth of learning resources for users of all levels.
 
+### 6. [Nix Flake Templates](https://github.com/nix-community/nix-flake-template)
+
+Nix Flake Templates is a repository that offers project templates and examples for working with Nix flakes. It provides a starting point for creating Nix Flake-based projects and includes pre-configured directory structures and build setups to kickstart Nix Flake development.
+
+### 7. [Nix Manual](https://github.com/NixOS/nix/blob/master/doc/manual)
+
+The Nix Manual repository contains the official documentation for Nix. It provides an in-depth guide to using and understanding Nix, covering topics such as package management, language features, and configuration.
+
 ## Getting Started
 
 If you're new to Nix or NixOS, we recommend starting with the following resources:
