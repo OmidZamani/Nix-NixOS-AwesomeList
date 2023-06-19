@@ -1,6 +1,6 @@
 # Official Nix/NixOS Repositories
 
-Welcome to the un-official GitHub repositories for Nix and NixOS! This collection serves as a central hub for the core source code, documentation, and issue trackers related to Nix and NixOS. Whether you're a seasoned user or just getting started, this is the place to explore and contribute to the development of Nix and NixOS.
+Welcome to the official GitHub repositories for Nix and NixOS! This collection serves as a central hub for the core source code, documentation, and issue trackers related to Nix and NixOS. Whether you're a seasoned user or just getting started, this is the place to explore and contribute to the development of Nix and NixOS.
 
 ## Repository Overview
 
@@ -11,6 +11,18 @@ The Nix repository houses the source code for the Nix package manager. Here, you
 ### 2. [NixOS](https://github.com/NixOS/nixpkgs)
 
 NixOS is a Linux distribution built entirely on the Nix package manager. This repository contains the Nixpkgs collection, which consists of thousands of package definitions for various software applications, libraries, and development tools. NixOS emphasizes declarative system configuration, enabling users to define their entire system state in a reproducible manner.
+
+### 3. [NixOps](https://github.com/NixOS/nixops)
+
+NixOps is a tool built on top of Nix that allows for the deployment and management of infrastructure and services across multiple machines or cloud providers. It provides a declarative approach to infrastructure management, enabling reproducible and scalable deployments.
+
+### 4. [Nixpkgs](https://github.com/NixOS/nixpkgs)
+
+Nixpkgs is a large collection of package definitions that are used by Nix to build and install software. It contains thousands of packages and is continuously maintained and updated by the Nix community. This repository serves as a central location for maintaining and contributing to the package ecosystem.
+
+### 5. [Nix Pills](https://github.com/justinwoo/nix-pills)
+
+Nix Pills is a tutorial series that aims to teach users about Nix and its concepts through practical examples and explanations. It covers various topics, from basic package management to advanced Nix features. The repository provides a wealth of learning resources for users of all levels.
 
 ## Getting Started
 
